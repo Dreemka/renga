@@ -1,2 +1,2 @@
-# renga.app
+# renga
 английская версия сайта renga
